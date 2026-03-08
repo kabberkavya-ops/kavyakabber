@@ -1,9 +1,8 @@
 # 👋 Hey There!
 
 ## I'm Kavya Kabber  
-🎓 B.Sc Student  
-💻 AI & ML Enthusiast    
-🌱 Currently Learning BSc(MCs)  
+🎓 B.Sc Computer Science Student (6th Semester)
+🌱 Currently learning Web Development and Machine Learning
 
 ## 🚀 Skills
 - Python
@@ -13,7 +12,12 @@
 - HTML & CSS
 
 ## 📌 Projects
-- 🔍 DDoS Detection using Machine Learning
+🔹 Vector Pulse – DDoS Detection using Machine Learning
+Machine Learning-based system that detects abnormal network traffic and identifies possible DDoS attacks.
+🔹 Online Quiz System
+A web-based quiz platform where users can answer questions and get instant scores.
+🔹 RationNet Pro
+A smart ration management system that checks user eligibility and helps manage ration distribution.
 
 ## 📫 Connect with Me
  GitHub:https://github.com/kabberkavya-ops
