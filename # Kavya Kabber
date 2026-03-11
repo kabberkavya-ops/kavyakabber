@@ -13,11 +13,23 @@
 
 ## 📌 Projects
 🔹 Vector Pulse – DDoS Detection using Machine Learning
-Machine Learning-based system that detects abnormal network traffic and identifies possible DDoS attacks.
+
+A Machine Learning-based security system that analyzes network traffic and detects abnormal patterns to identify potential DDoS attacks. It helps improve network security by alerting when suspicious activity is found.
+
+Skills: Python, Machine Learning, Data Analysis, Network Security
+
 🔹 Online Quiz System
-A web-based quiz platform where users can answer questions and get instant scores.
+
+A web-based quiz application where users can attempt quizzes, answer multiple-choice questions, and receive instant scores and results.
+
+Skills: HTML, CSS, JavaScript
+
 🔹 RationNet Pro
-A smart ration management system that checks user eligibility and helps manage ration distribution.
+
+A smart ration management system that verifies user eligibility and helps manage ration distribution efficiently through a digital platform.
+
+Skills: HTML, CSS, Java, DBMS
+
 
 ## 📫 Connect with Me
  GitHub:https://github.com/kabberkavya-ops
